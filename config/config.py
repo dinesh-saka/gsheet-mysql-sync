@@ -1,0 +1,7 @@
+SPREADSHEET_ID = ""
+RANGE_NAME = ""
+DB_USERNAME = ""
+DB_PASSWORD = ""
+DB_NAME = ""
+DB_HOST = ""
+TABLE_NAME = ""
